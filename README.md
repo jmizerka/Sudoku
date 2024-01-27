@@ -11,5 +11,5 @@ This Python project implements a Sudoku generator & solver.
    cd Sudoku
 
 ## To do
--[] Check uniqueness of generated puzzle
--[] GUI 
+- Check uniqueness of generated puzzle
+- GUI 
