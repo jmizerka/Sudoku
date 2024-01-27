@@ -8,4 +8,4 @@ This Python project implements a Sudoku generator & solver.
 
    ```bash
    git clone https://github.com/jmizerka/Sudoku.git
-   cd sudoku-solver
+   cd Sudoku
